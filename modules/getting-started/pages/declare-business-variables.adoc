@@ -32,7 +32,7 @@ Now that a business variable is declared, use it in the transition condition def
 . Go into the menu:General[General] tab
 . In *condition* click on the pencil icon
 . Select *Script* in *Expression type* in the tabs at the top of the modal window
-. Select the object *claims* in the left menu "Business variable," and then the attribute *satisfactionLevel*
+. Select the object *claim* in the left menu "Business variable," and then the attribute *satisfactionLevel*
 . Click on *<* in the quick access operators' bar and type *3*
 . Click on *OK*
 
